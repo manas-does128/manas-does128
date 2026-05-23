@@ -37,10 +37,20 @@ Building Web Projects | MERN Learner
 
 ## 💻 Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,java,python,git,github,vscode,c" />
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
 </p>
 
+### Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,flask" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 ---
 ## 📊 GitHub Stats
 
