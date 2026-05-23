@@ -3,6 +3,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Web+Projects;MERN+Learner;Open+to+Internships;Learning+and+Growing&center=true&width=600&height=45&color=58A6FF&size=24">
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN-Learner-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Building-Web%20Projects-orange?style=for-the-badge"/>
+</p>
 
 ---
 
