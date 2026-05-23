@@ -7,7 +7,7 @@ Building Web Projects | MERN Learner
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Web+Projects;MERN+Learner;Open+to+Internships;Learning+and+Growing&center=true&width=600&height=45&color=58A6FF&size=24">
 </p>
----
+
 
 
 ## 🚀 About Me
@@ -27,6 +27,9 @@ Building Web Projects | MERN Learner
 </a>
 <a href="mailto:vmrpg200723@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://github.com/manas-does128">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
 
