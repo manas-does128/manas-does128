@@ -4,11 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Web+Projects;MERN+Learner;Open+to+Internships;Learning+and+Growing&center=true&width=600&height=45&color=58A6FF&size=24">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Building-Web_Projects-0A66C2?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MERN-Learner-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open_to-Internships-8A2BE2?style=flat-square&logo=handshake&logoColor=white"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Web+Projects;MERN+Learner;Open+to+Internships;Learning+and+Growing" />
 </p>
 
+<p align="center">
+  ✦ Building Real Projects &nbsp; • &nbsp;
+  ✦ MERN Journey &nbsp; • &nbsp;
+  ✦ Open to Internships
+</p>
 ---
 
 ### 🚀 About Me
