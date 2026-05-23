@@ -3,15 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Web+Projects;MERN+Learner;Open+to+Internships;Learning+and+Growing&center=true&width=600&height=45&color=58A6FF&size=24">
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Web+Projects;MERN+Learner;Open+to+Internships;Learning+and+Growing" />
-</p>
 
-<p align="center">
-  ✦ Building Real Projects &nbsp; • &nbsp;
-  ✦ MERN Journey &nbsp; • &nbsp;
-  ✦ Open to Internships
-</p>
 ---
 
 ### 🚀 About Me
