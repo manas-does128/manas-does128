@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer | MERN Learner | DSA Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;MERN+Stack+Learner;DSA+Problem+Solver;Building+Projects+Every+Day&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Web+Projects;MERN+Learner;Open+to+Internships;Learning+and+Growing&center=true&width=600&height=45&color=58A6FF&size=24">
 </p>
 
 ---
