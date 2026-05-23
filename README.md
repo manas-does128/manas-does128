@@ -53,8 +53,3 @@ Building Web Projects | MERN Learner
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manas-does128&theme=tokyo-night"/>
 </p>
 ---
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manas-does128&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
