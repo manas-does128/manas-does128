@@ -45,3 +45,10 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manas-does128&theme=tokyo-night"/>
 </p>
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/manas-does128/manas-does128/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
