@@ -10,6 +10,11 @@ Building Web Projects | MERN Learner
 ---
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manas-does128&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/manas-does128?label=Followers&style=flat&color=blue" />
+  <img src="https://img.shields.io/github/stars/manas-does128?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=yellow" />
+</p>
 
 ## 🚀 About Me
 
