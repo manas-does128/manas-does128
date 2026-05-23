@@ -8,10 +8,13 @@
 
 ### 🚀 About Me
 
-- 🌱 Currently learning ** MERN Stack and DSA**
-- 💻 Building projects and improving problem-solving skills
-- 🎯 Goal: Become a strong developer through consistency
-- 🤝 Open to collaboration and learning opportunities
+## 🚀 About Me
+
+- 🌱 Currently learning **MERN Stack and DSA**
+- 💻 Building web projects and improving problem-solving skills
+- 🎯 Focused on consistency, learning and real-world development
+- 🤝 Open to internships and collaborative opportunities
+- 📚 Exploring development through projects and hands-on learning
 
 ---
 ## 🌐 Connect With Me
