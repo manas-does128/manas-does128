@@ -9,7 +9,7 @@ Building Web Projects | MERN Learner
 </p>
 ---
 
-### 🚀 About Me
+
 
 ## 🚀 About Me
 
