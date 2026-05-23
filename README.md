@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Venkat Manas Reddy</h1>
+<h3 align="center">Web Developer | MERN Learner | DSA Explorer</h3>
 
-<!--
-**manas-does128/manas-does128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;MERN+Stack+Learner;DSA+Problem+Solver;Building+Projects+Every+Day&center=true&width=500&height=50">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🌱 Currently learning ** MERN Stack and DSA**
+- 💻 Building projects and improving problem-solving skills
+- 🎯 Goal: Become a strong developer through consistency
+- 🤝 Open to collaboration and learning opportunities
+
+---
