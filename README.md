@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Venkat Manas Reddy</h1>
-<h3 align="center">Web Developer | MERN Learner | DSA Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Web+Projects;MERN+Learner;Open+to+Internships;Learning+and+Growing&center=true&width=600&height=45&color=58A6FF&size=24">
