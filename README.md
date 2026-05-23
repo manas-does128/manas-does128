@@ -31,7 +31,7 @@
 ## 💻 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,java,python,git,github,vscode,antigravity,c,R" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,java,python,git,github,vscode,c" />
 </p>
 
 ---
@@ -39,13 +39,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=manas-does128&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manas-does128&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas-does128&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manas-does128&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas-does128&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manas-does128&theme=tokyo-night"/>
 </p>
