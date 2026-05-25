@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Venkat Manas</h1>
+<h1 align="center">Hi 👋, I'm Venkat Manas Reddy</h1>
 
 <h3 align="center">
 Building Web Projects | MERN Learner
