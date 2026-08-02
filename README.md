@@ -136,6 +136,6 @@ Computer Science Student • Backend Developer • AI Enthusiast
 
 <h3 align="center">
 
-⭐ Build • Learn • Improve • Repeat ⭐
+🚀 Build • Learn • Improve • Repeat 🚀
 
 </h3>
