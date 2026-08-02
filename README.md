@@ -39,7 +39,7 @@ Building Web Projects | MERN Learner
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,cpp" />
 </p>
 
 ### Web Development
