@@ -22,10 +22,6 @@ Computer Science Student • Backend Developer • AI Enthusiast
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manas-does128&label=Profile+Views&color=0e75b6&style=flat"/>
-</p>
-
 ---
 
 # 🚀 About Me
